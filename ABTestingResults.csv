@@ -1,0 +1,201 @@
+TestID,UseCase,StartDate,EndDate,Variant,Model,Metric,MetricValue,SampleSize,PValue,Winner
+T0001,Customer Support Bot,2025-03-03,2025-03-09,A,Custom Fine-tuned,ConversionRate,0.99,19728,1.0,Inconclusive
+T0001,Customer Support Bot,2025-03-03,2025-03-09,B,Gemini-Pro,ConversionRate,0.99,20341,1.0,Inconclusive
+T0002,Customer Support Bot,2025-03-10,2025-03-16,A,GPT-4,ConversionRate,0.894,23154,0.0,B
+T0002,Customer Support Bot,2025-03-10,2025-03-16,B,Claude-3.5,ConversionRate,0.9861,21567,0.0,B
+T0003,Customer Support Bot,2025-03-17,2025-03-23,A,Custom Fine-tuned,ConversionRate,0.99,19425,0.0,A
+T0003,Customer Support Bot,2025-03-17,2025-03-23,B,GPT-4,ConversionRate,0.9066,23474,0.0,A
+T0004,Customer Support Bot,2025-03-24,2025-03-30,A,Gemini-Pro,ConversionRate,0.99,21807,1.0,Inconclusive
+T0004,Customer Support Bot,2025-03-24,2025-03-30,B,Custom Fine-tuned,ConversionRate,0.99,20038,1.0,Inconclusive
+T0005,Customer Support Bot,2025-03-31,2025-04-06,A,Custom Fine-tuned,ConversionRate,0.99,20515,0.0,A
+T0005,Customer Support Bot,2025-03-31,2025-04-06,B,Claude-3.5,ConversionRate,0.9619,21112,0.0,A
+T0006,Customer Support Bot,2025-04-07,2025-04-13,A,Gemini-Pro,ConversionRate,0.981,21240,0.0,A
+T0006,Customer Support Bot,2025-04-07,2025-04-13,B,Claude-3.5,ConversionRate,0.959,22601,0.0,A
+T0007,Customer Support Bot,2025-04-14,2025-04-20,A,Claude-3.5,ConversionRate,0.99,21335,0.0,A
+T0007,Customer Support Bot,2025-04-14,2025-04-20,B,GPT-4,ConversionRate,0.9287,23955,0.0,A
+T0008,Customer Support Bot,2025-04-21,2025-04-27,A,Custom Fine-tuned,ConversionRate,0.99,19713,0.0,A
+T0008,Customer Support Bot,2025-04-21,2025-04-27,B,Gemini-Pro,ConversionRate,0.9824,22892,0.0,A
+T0009,Customer Support Bot,2025-04-28,2025-05-04,A,Claude-3.5,ConversionRate,0.9794,22833,0.0,A
+T0009,Customer Support Bot,2025-04-28,2025-05-04,B,GPT-4,ConversionRate,0.917,22271,0.0,A
+T0010,Customer Support Bot,2025-05-05,2025-05-11,A,Gemini-Pro,ConversionRate,0.99,22559,1.0,Inconclusive
+T0010,Customer Support Bot,2025-05-05,2025-05-11,B,Custom Fine-tuned,ConversionRate,0.99,19596,1.0,Inconclusive
+T0011,Customer Support Bot,2025-05-12,2025-05-18,A,Custom Fine-tuned,ConversionRate,0.99,20939,0.0,A
+T0011,Customer Support Bot,2025-05-12,2025-05-18,B,GPT-4,ConversionRate,0.9153,22050,0.0,A
+T0012,Customer Support Bot,2025-05-19,2025-05-25,A,Claude-3.5,ConversionRate,0.9808,24274,0.0,B
+T0012,Customer Support Bot,2025-05-19,2025-05-25,B,Gemini-Pro,ConversionRate,0.99,22129,0.0,B
+T0013,Customer Support Bot,2025-05-26,2025-06-01,A,GPT-4,ConversionRate,0.9004,23894,0.0,B
+T0013,Customer Support Bot,2025-05-26,2025-06-01,B,Claude-3.5,ConversionRate,0.982,22222,0.0,B
+T0014,Customer Support Bot,2025-06-02,2025-06-08,A,Claude-3.5,ConversionRate,0.9741,24340,0.0,B
+T0014,Customer Support Bot,2025-06-02,2025-06-08,B,Gemini-Pro,ConversionRate,0.99,20377,0.0,B
+T0015,Customer Support Bot,2025-06-09,2025-06-15,A,Custom Fine-tuned,ConversionRate,0.99,20565,0.0,A
+T0015,Customer Support Bot,2025-06-09,2025-06-15,B,GPT-4,ConversionRate,0.9132,24221,0.0,A
+T0016,Customer Support Bot,2025-06-16,2025-06-22,A,Claude-3.5,ConversionRate,0.9737,22728,0.0,B
+T0016,Customer Support Bot,2025-06-16,2025-06-22,B,Custom Fine-tuned,ConversionRate,0.99,21810,0.0,B
+T0017,Customer Support Bot,2025-06-23,2025-06-29,A,GPT-4,ConversionRate,0.9044,24565,0.0,B
+T0017,Customer Support Bot,2025-06-23,2025-06-29,B,Custom Fine-tuned,ConversionRate,0.99,20835,0.0,B
+T0018,Customer Support Bot,2025-06-30,2025-07-06,A,GPT-4,ConversionRate,0.9351,24075,0.0,B
+T0018,Customer Support Bot,2025-06-30,2025-07-06,B,Custom Fine-tuned,ConversionRate,0.99,20353,0.0,B
+T0019,Customer Support Bot,2025-07-07,2025-07-13,A,Custom Fine-tuned,ConversionRate,0.99,19124,1.0,Inconclusive
+T0019,Customer Support Bot,2025-07-07,2025-07-13,B,Gemini-Pro,ConversionRate,0.99,21137,1.0,Inconclusive
+T0020,Customer Support Bot,2025-07-14,2025-07-20,A,Claude-3.5,ConversionRate,0.99,22824,1.0,Inconclusive
+T0020,Customer Support Bot,2025-07-14,2025-07-20,B,Custom Fine-tuned,ConversionRate,0.99,20494,1.0,Inconclusive
+T0021,Customer Support Bot,2025-07-21,2025-07-27,A,Custom Fine-tuned,ConversionRate,0.99,18888,1.0,Inconclusive
+T0021,Customer Support Bot,2025-07-21,2025-07-27,B,Gemini-Pro,ConversionRate,0.99,21578,1.0,Inconclusive
+T0022,Customer Support Bot,2025-07-28,2025-08-03,A,GPT-4,ConversionRate,0.9235,25700,0.0,B
+T0022,Customer Support Bot,2025-07-28,2025-08-03,B,Gemini-Pro,ConversionRate,0.99,22612,0.0,B
+T0023,Customer Support Bot,2025-08-04,2025-08-10,A,Gemini-Pro,ConversionRate,0.99,21339,0.0,A
+T0023,Customer Support Bot,2025-08-04,2025-08-10,B,GPT-4,ConversionRate,0.91,24691,0.0,A
+T0024,Customer Support Bot,2025-08-11,2025-08-17,A,Claude-3.5,ConversionRate,0.99,22681,0.0,A
+T0024,Customer Support Bot,2025-08-11,2025-08-17,B,GPT-4,ConversionRate,0.9189,23411,0.0,A
+T0025,Customer Support Bot,2025-08-18,2025-08-24,A,GPT-4,ConversionRate,0.8941,25290,0.0,B
+T0025,Customer Support Bot,2025-08-18,2025-08-24,B,Claude-3.5,ConversionRate,0.99,21730,0.0,B
+T0026,Content Generation,2025-03-03,2025-03-09,A,Custom Fine-tuned,ConversionRate,0.99,10644,0.0,A
+T0026,Content Generation,2025-03-03,2025-03-09,B,GPT-4,ConversionRate,0.9376,11392,0.0,A
+T0027,Content Generation,2025-03-10,2025-03-16,A,Claude-3.5,ConversionRate,0.9875,11497,0.088616,Inconclusive
+T0027,Content Generation,2025-03-10,2025-03-16,B,Custom Fine-tuned,ConversionRate,0.99,10102,0.088616,Inconclusive
+T0028,Content Generation,2025-03-17,2025-03-23,A,GPT-4,ConversionRate,0.9163,12240,0.0,B
+T0028,Content Generation,2025-03-17,2025-03-23,B,Custom Fine-tuned,ConversionRate,0.99,10184,0.0,B
+T0029,Content Generation,2025-03-24,2025-03-30,A,Gemini-Pro,ConversionRate,0.99,10664,0.0,A
+T0029,Content Generation,2025-03-24,2025-03-30,B,Claude-3.5,ConversionRate,0.9558,11788,0.0,A
+T0030,Content Generation,2025-03-31,2025-04-06,A,Gemini-Pro,ConversionRate,0.99,11055,0.0,A
+T0030,Content Generation,2025-03-31,2025-04-06,B,Claude-3.5,ConversionRate,0.9593,11230,0.0,A
+T0031,Content Generation,2025-04-07,2025-04-13,A,GPT-4,ConversionRate,0.9336,12328,0.0,B
+T0031,Content Generation,2025-04-07,2025-04-13,B,Gemini-Pro,ConversionRate,0.99,11374,0.0,B
+T0032,Content Generation,2025-04-14,2025-04-20,A,Gemini-Pro,ConversionRate,0.99,10639,0.0,A
+T0032,Content Generation,2025-04-14,2025-04-20,B,GPT-4,ConversionRate,0.9687,11804,0.0,A
+T0033,Content Generation,2025-04-21,2025-04-27,A,Claude-3.5,ConversionRate,0.99,11503,0.0,A
+T0033,Content Generation,2025-04-21,2025-04-27,B,GPT-4,ConversionRate,0.9389,12085,0.0,A
+T0034,Content Generation,2025-04-28,2025-05-04,A,Claude-3.5,ConversionRate,0.99,11047,0.0,A
+T0034,Content Generation,2025-04-28,2025-05-04,B,GPT-4,ConversionRate,0.924,11252,0.0,A
+T0035,Content Generation,2025-05-05,2025-05-11,A,GPT-4,ConversionRate,0.9222,11948,0.0,B
+T0035,Content Generation,2025-05-05,2025-05-11,B,Gemini-Pro,ConversionRate,0.9858,11160,0.0,B
+T0036,Content Generation,2025-05-12,2025-05-18,A,Gemini-Pro,ConversionRate,0.99,11601,0.0,A
+T0036,Content Generation,2025-05-12,2025-05-18,B,GPT-4,ConversionRate,0.937,11842,0.0,A
+T0037,Content Generation,2025-05-19,2025-05-25,A,GPT-4,ConversionRate,0.9231,13332,0.0,B
+T0037,Content Generation,2025-05-19,2025-05-25,B,Custom Fine-tuned,ConversionRate,0.99,10573,0.0,B
+T0038,Content Generation,2025-05-26,2025-06-01,A,Custom Fine-tuned,ConversionRate,0.99,10353,0.0,A
+T0038,Content Generation,2025-05-26,2025-06-01,B,GPT-4,ConversionRate,0.9343,12454,0.0,A
+T0039,Content Generation,2025-06-02,2025-06-08,A,Gemini-Pro,ConversionRate,0.99,11623,1.0,Inconclusive
+T0039,Content Generation,2025-06-02,2025-06-08,B,Custom Fine-tuned,ConversionRate,0.99,10028,1.0,Inconclusive
+T0040,Content Generation,2025-06-09,2025-06-15,A,GPT-4,ConversionRate,0.9065,12529,0.0,B
+T0040,Content Generation,2025-06-09,2025-06-15,B,Custom Fine-tuned,ConversionRate,0.99,10220,0.0,B
+T0041,Content Generation,2025-06-16,2025-06-22,A,Gemini-Pro,ConversionRate,0.9784,10705,0.0,B
+T0041,Content Generation,2025-06-16,2025-06-22,B,Custom Fine-tuned,ConversionRate,0.99,11037,0.0,B
+T0042,Content Generation,2025-06-23,2025-06-29,A,GPT-4,ConversionRate,0.916,12303,0.0,B
+T0042,Content Generation,2025-06-23,2025-06-29,B,Claude-3.5,ConversionRate,0.99,11632,0.0,B
+T0043,Content Generation,2025-06-30,2025-07-06,A,GPT-4,ConversionRate,0.9144,12667,0.0,B
+T0043,Content Generation,2025-06-30,2025-07-06,B,Gemini-Pro,ConversionRate,0.9811,11134,0.0,B
+T0044,Content Generation,2025-07-07,2025-07-13,A,Claude-3.5,ConversionRate,0.99,11615,0.0,A
+T0044,Content Generation,2025-07-07,2025-07-13,B,Gemini-Pro,ConversionRate,0.9739,11028,0.0,A
+T0045,Content Generation,2025-07-14,2025-07-20,A,Claude-3.5,ConversionRate,0.99,12055,0.0,A
+T0045,Content Generation,2025-07-14,2025-07-20,B,GPT-4,ConversionRate,0.9411,12791,0.0,A
+T0046,Content Generation,2025-07-21,2025-07-27,A,GPT-4,ConversionRate,0.8829,12164,0.0,B
+T0046,Content Generation,2025-07-21,2025-07-27,B,Custom Fine-tuned,ConversionRate,0.99,10078,0.0,B
+T0047,Content Generation,2025-07-28,2025-08-03,A,Claude-3.5,ConversionRate,0.99,12456,1.0,Inconclusive
+T0047,Content Generation,2025-07-28,2025-08-03,B,Gemini-Pro,ConversionRate,0.99,11542,1.0,Inconclusive
+T0048,Content Generation,2025-08-04,2025-08-10,A,GPT-4,ConversionRate,0.8904,11967,0.0,B
+T0048,Content Generation,2025-08-04,2025-08-10,B,Gemini-Pro,ConversionRate,0.99,11695,0.0,B
+T0049,Content Generation,2025-08-11,2025-08-17,A,Gemini-Pro,ConversionRate,0.99,11625,1.0,Inconclusive
+T0049,Content Generation,2025-08-11,2025-08-17,B,Claude-3.5,ConversionRate,0.99,11887,1.0,Inconclusive
+T0050,Content Generation,2025-08-18,2025-08-24,A,GPT-4,ConversionRate,0.9189,12026,0.0,B
+T0050,Content Generation,2025-08-18,2025-08-24,B,Custom Fine-tuned,ConversionRate,0.99,10884,0.0,B
+T0051,Code Review Assistant,2025-03-03,2025-03-09,A,Claude-3.5,ConversionRate,0.99,7933,0.001077,A
+T0051,Code Review Assistant,2025-03-03,2025-03-09,B,Gemini-Pro,ConversionRate,0.984,7207,0.001077,A
+T0052,Code Review Assistant,2025-03-10,2025-03-16,A,Gemini-Pro,ConversionRate,0.99,6899,0.0,A
+T0052,Code Review Assistant,2025-03-10,2025-03-16,B,GPT-4,ConversionRate,0.9106,7900,0.0,A
+T0053,Code Review Assistant,2025-03-17,2025-03-23,A,Custom Fine-tuned,ConversionRate,0.99,7139,0.0,A
+T0053,Code Review Assistant,2025-03-17,2025-03-23,B,Claude-3.5,ConversionRate,0.9699,7754,0.0,A
+T0054,Code Review Assistant,2025-03-24,2025-03-30,A,Claude-3.5,ConversionRate,0.9804,7534,0.496414,Inconclusive
+T0054,Code Review Assistant,2025-03-24,2025-03-30,B,Gemini-Pro,ConversionRate,0.9788,6806,0.496414,Inconclusive
+T0055,Code Review Assistant,2025-03-31,2025-04-06,A,GPT-4,ConversionRate,0.9539,7794,0.0,B
+T0055,Code Review Assistant,2025-03-31,2025-04-06,B,Custom Fine-tuned,ConversionRate,0.99,6983,0.0,B
+T0056,Code Review Assistant,2025-04-07,2025-04-13,A,GPT-4,ConversionRate,0.908,8244,0.0,B
+T0056,Code Review Assistant,2025-04-07,2025-04-13,B,Gemini-Pro,ConversionRate,0.9567,7758,0.0,B
+T0057,Code Review Assistant,2025-04-14,2025-04-20,A,Gemini-Pro,ConversionRate,0.99,7333,1.0,Inconclusive
+T0057,Code Review Assistant,2025-04-14,2025-04-20,B,Claude-3.5,ConversionRate,0.99,7885,1.0,Inconclusive
+T0058,Code Review Assistant,2025-04-21,2025-04-27,A,Claude-3.5,ConversionRate,0.9889,7499,0.527339,Inconclusive
+T0058,Code Review Assistant,2025-04-21,2025-04-27,B,Gemini-Pro,ConversionRate,0.99,7216,0.527339,Inconclusive
+T0059,Code Review Assistant,2025-04-28,2025-05-04,A,Gemini-Pro,ConversionRate,0.99,7538,1.0,Inconclusive
+T0059,Code Review Assistant,2025-04-28,2025-05-04,B,Claude-3.5,ConversionRate,0.99,7356,1.0,Inconclusive
+T0060,Code Review Assistant,2025-05-05,2025-05-11,A,Claude-3.5,ConversionRate,0.99,7965,1.0,Inconclusive
+T0060,Code Review Assistant,2025-05-05,2025-05-11,B,Custom Fine-tuned,ConversionRate,0.99,6924,1.0,Inconclusive
+T0061,Code Review Assistant,2025-05-12,2025-05-18,A,Claude-3.5,ConversionRate,0.9834,7975,0.0,A
+T0061,Code Review Assistant,2025-05-12,2025-05-18,B,GPT-4,ConversionRate,0.9439,8383,0.0,A
+T0062,Code Review Assistant,2025-05-19,2025-05-25,A,GPT-4,ConversionRate,0.8978,8182,0.0,B
+T0062,Code Review Assistant,2025-05-19,2025-05-25,B,Gemini-Pro,ConversionRate,0.9805,7175,0.0,B
+T0063,Code Review Assistant,2025-05-26,2025-06-01,A,Claude-3.5,ConversionRate,0.99,7411,0.0,A
+T0063,Code Review Assistant,2025-05-26,2025-06-01,B,GPT-4,ConversionRate,0.9281,8632,0.0,A
+T0064,Code Review Assistant,2025-06-02,2025-06-08,A,GPT-4,ConversionRate,0.916,8018,0.0,B
+T0064,Code Review Assistant,2025-06-02,2025-06-08,B,Custom Fine-tuned,ConversionRate,0.99,7257,0.0,B
+T0065,Code Review Assistant,2025-06-09,2025-06-15,A,Claude-3.5,ConversionRate,0.988,7862,0.0,A
+T0065,Code Review Assistant,2025-06-09,2025-06-15,B,GPT-4,ConversionRate,0.9007,8201,0.0,A
+T0066,Code Review Assistant,2025-06-16,2025-06-22,A,Custom Fine-tuned,ConversionRate,0.99,6899,0.0,A
+T0066,Code Review Assistant,2025-06-16,2025-06-22,B,GPT-4,ConversionRate,0.9237,8315,0.0,A
+T0067,Code Review Assistant,2025-06-23,2025-06-29,A,Gemini-Pro,ConversionRate,0.99,7342,0.000729,A
+T0067,Code Review Assistant,2025-06-23,2025-06-29,B,Claude-3.5,ConversionRate,0.9837,7796,0.000729,A
+T0068,Code Review Assistant,2025-06-30,2025-07-06,A,Gemini-Pro,ConversionRate,0.961,7509,0.0,B
+T0068,Code Review Assistant,2025-06-30,2025-07-06,B,Custom Fine-tuned,ConversionRate,0.99,7052,0.0,B
+T0069,Code Review Assistant,2025-07-07,2025-07-13,A,Claude-3.5,ConversionRate,0.99,8139,1.0,Inconclusive
+T0069,Code Review Assistant,2025-07-07,2025-07-13,B,Gemini-Pro,ConversionRate,0.99,7582,1.0,Inconclusive
+T0070,Code Review Assistant,2025-07-14,2025-07-20,A,Claude-3.5,ConversionRate,0.9781,8096,0.0,B
+T0070,Code Review Assistant,2025-07-14,2025-07-20,B,Custom Fine-tuned,ConversionRate,0.99,7588,0.0,B
+T0071,Code Review Assistant,2025-07-21,2025-07-27,A,Claude-3.5,ConversionRate,0.9894,8269,0.0,A
+T0071,Code Review Assistant,2025-07-21,2025-07-27,B,GPT-4,ConversionRate,0.8779,8238,0.0,A
+T0072,Code Review Assistant,2025-07-28,2025-08-03,A,Gemini-Pro,ConversionRate,0.99,7600,0.0,A
+T0072,Code Review Assistant,2025-07-28,2025-08-03,B,GPT-4,ConversionRate,0.9268,8243,0.0,A
+T0073,Code Review Assistant,2025-08-04,2025-08-10,A,Custom Fine-tuned,ConversionRate,0.99,6646,1.0,Inconclusive
+T0073,Code Review Assistant,2025-08-04,2025-08-10,B,Claude-3.5,ConversionRate,0.99,7988,1.0,Inconclusive
+T0074,Code Review Assistant,2025-08-11,2025-08-17,A,Custom Fine-tuned,ConversionRate,0.99,6817,1.0,Inconclusive
+T0074,Code Review Assistant,2025-08-11,2025-08-17,B,Gemini-Pro,ConversionRate,0.99,7739,1.0,Inconclusive
+T0075,Code Review Assistant,2025-08-18,2025-08-24,A,GPT-4,ConversionRate,0.9113,8490,0.0,B
+T0075,Code Review Assistant,2025-08-18,2025-08-24,B,Gemini-Pro,ConversionRate,0.9899,7712,0.0,B
+T0076,Data Analysis Tool,2025-03-03,2025-03-09,A,GPT-4,ConversionRate,0.9276,6125,0.0,B
+T0076,Data Analysis Tool,2025-03-03,2025-03-09,B,Claude-3.5,ConversionRate,0.985,5541,0.0,B
+T0077,Data Analysis Tool,2025-03-10,2025-03-16,A,GPT-4,ConversionRate,0.9058,5907,0.0,B
+T0077,Data Analysis Tool,2025-03-10,2025-03-16,B,Gemini-Pro,ConversionRate,0.99,5734,0.0,B
+T0078,Data Analysis Tool,2025-03-17,2025-03-23,A,Gemini-Pro,ConversionRate,0.9874,5260,0.0,A
+T0078,Data Analysis Tool,2025-03-17,2025-03-23,B,GPT-4,ConversionRate,0.9018,6366,0.0,A
+T0079,Data Analysis Tool,2025-03-24,2025-03-30,A,GPT-4,ConversionRate,0.9134,5854,0.0,B
+T0079,Data Analysis Tool,2025-03-24,2025-03-30,B,Claude-3.5,ConversionRate,0.99,5746,0.0,B
+T0080,Data Analysis Tool,2025-03-31,2025-04-06,A,Custom Fine-tuned,ConversionRate,0.99,5474,0.0,A
+T0080,Data Analysis Tool,2025-03-31,2025-04-06,B,GPT-4,ConversionRate,0.9355,5645,0.0,A
+T0081,Data Analysis Tool,2025-04-07,2025-04-13,A,GPT-4,ConversionRate,0.9282,5659,0.0,B
+T0081,Data Analysis Tool,2025-04-07,2025-04-13,B,Claude-3.5,ConversionRate,0.99,5799,0.0,B
+T0082,Data Analysis Tool,2025-04-14,2025-04-20,A,Claude-3.5,ConversionRate,0.99,5619,1.0,Inconclusive
+T0082,Data Analysis Tool,2025-04-14,2025-04-20,B,Custom Fine-tuned,ConversionRate,0.99,5085,1.0,Inconclusive
+T0083,Data Analysis Tool,2025-04-21,2025-04-27,A,Custom Fine-tuned,ConversionRate,0.99,5457,0.0,A
+T0083,Data Analysis Tool,2025-04-21,2025-04-27,B,Claude-3.5,ConversionRate,0.9747,6169,0.0,A
+T0084,Data Analysis Tool,2025-04-28,2025-05-04,A,Claude-3.5,ConversionRate,0.99,6417,1.0,Inconclusive
+T0084,Data Analysis Tool,2025-04-28,2025-05-04,B,Custom Fine-tuned,ConversionRate,0.99,5282,1.0,Inconclusive
+T0085,Data Analysis Tool,2025-05-05,2025-05-11,A,GPT-4,ConversionRate,0.9219,5971,0.0,B
+T0085,Data Analysis Tool,2025-05-05,2025-05-11,B,Claude-3.5,ConversionRate,0.9877,5635,0.0,B
+T0086,Data Analysis Tool,2025-05-12,2025-05-18,A,Gemini-Pro,ConversionRate,0.9889,5611,0.0,A
+T0086,Data Analysis Tool,2025-05-12,2025-05-18,B,GPT-4,ConversionRate,0.9219,6128,0.0,A
+T0087,Data Analysis Tool,2025-05-19,2025-05-25,A,Claude-3.5,ConversionRate,0.99,5261,1.0,Inconclusive
+T0087,Data Analysis Tool,2025-05-19,2025-05-25,B,Custom Fine-tuned,ConversionRate,0.99,5196,1.0,Inconclusive
+T0088,Data Analysis Tool,2025-05-26,2025-06-01,A,GPT-4,ConversionRate,0.9129,5942,0.0,B
+T0088,Data Analysis Tool,2025-05-26,2025-06-01,B,Claude-3.5,ConversionRate,0.9753,6052,0.0,B
+T0089,Data Analysis Tool,2025-06-02,2025-06-08,A,Claude-3.5,ConversionRate,0.9878,5989,0.263628,Inconclusive
+T0089,Data Analysis Tool,2025-06-02,2025-06-08,B,Custom Fine-tuned,ConversionRate,0.99,5657,0.263628,Inconclusive
+T0090,Data Analysis Tool,2025-06-09,2025-06-15,A,Claude-3.5,ConversionRate,0.99,5759,0.0,A
+T0090,Data Analysis Tool,2025-06-09,2025-06-15,B,GPT-4,ConversionRate,0.9259,6309,0.0,A
+T0091,Data Analysis Tool,2025-06-16,2025-06-22,A,Claude-3.5,ConversionRate,0.99,5725,0.0,A
+T0091,Data Analysis Tool,2025-06-16,2025-06-22,B,GPT-4,ConversionRate,0.9306,6162,0.0,A
+T0092,Data Analysis Tool,2025-06-23,2025-06-29,A,Gemini-Pro,ConversionRate,0.99,5595,0.0,A
+T0092,Data Analysis Tool,2025-06-23,2025-06-29,B,GPT-4,ConversionRate,0.9007,6277,0.0,A
+T0093,Data Analysis Tool,2025-06-30,2025-07-06,A,GPT-4,ConversionRate,0.9048,6196,0.0,B
+T0093,Data Analysis Tool,2025-06-30,2025-07-06,B,Custom Fine-tuned,ConversionRate,0.99,5558,0.0,B
+T0094,Data Analysis Tool,2025-07-07,2025-07-13,A,Custom Fine-tuned,ConversionRate,0.99,5222,1.0,Inconclusive
+T0094,Data Analysis Tool,2025-07-07,2025-07-13,B,Claude-3.5,ConversionRate,0.99,5851,1.0,Inconclusive
+T0095,Data Analysis Tool,2025-07-14,2025-07-20,A,Claude-3.5,ConversionRate,0.9645,6267,0.0,B
+T0095,Data Analysis Tool,2025-07-14,2025-07-20,B,Custom Fine-tuned,ConversionRate,0.99,5505,0.0,B
+T0096,Data Analysis Tool,2025-07-21,2025-07-27,A,Custom Fine-tuned,ConversionRate,0.99,5415,1.0,Inconclusive
+T0096,Data Analysis Tool,2025-07-21,2025-07-27,B,Claude-3.5,ConversionRate,0.99,6127,1.0,Inconclusive
+T0097,Data Analysis Tool,2025-07-28,2025-08-03,A,Gemini-Pro,ConversionRate,0.977,5806,0.0,A
+T0097,Data Analysis Tool,2025-07-28,2025-08-03,B,GPT-4,ConversionRate,0.919,6278,0.0,A
+T0098,Data Analysis Tool,2025-08-04,2025-08-10,A,Custom Fine-tuned,ConversionRate,0.99,5413,1.0,Inconclusive
+T0098,Data Analysis Tool,2025-08-04,2025-08-10,B,Claude-3.5,ConversionRate,0.99,6093,1.0,Inconclusive
+T0099,Data Analysis Tool,2025-08-11,2025-08-17,A,GPT-4,ConversionRate,0.9564,6485,0.0,B
+T0099,Data Analysis Tool,2025-08-11,2025-08-17,B,Claude-3.5,ConversionRate,0.99,5898,0.0,B
+T0100,Data Analysis Tool,2025-08-18,2025-08-24,A,GPT-4,ConversionRate,0.9047,6346,0.0,B
+T0100,Data Analysis Tool,2025-08-18,2025-08-24,B,Gemini-Pro,ConversionRate,0.99,5662,0.0,B
